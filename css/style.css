@@ -1,0 +1,30 @@
+/* CSS Document */
+
+/* Selector {
+Property: value;
+}*/
+
+body {
+	background-image: url(images/background2.jpg);
+	background-size: cover;
+}
+
+h2 {
+	color: #A5C663;
+	text-align: center;
+	border: 5px solid rgb(170, 85, 133);
+	cursor: pointer;
+}
+
+p {
+	color: pink;
+}
+
+p {
+	color: green;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+}
